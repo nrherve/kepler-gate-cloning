@@ -97,14 +97,14 @@ nav button {
   margin-bottom: 45px;
 }
 .learn {
-  height: 100vh;
+  height: 200vh;
   position: relative;
 }
 .bg-firstimage {
   position: absolute;
   image-size: contain;
   width: 100%;
-  height: 200%;
+  height: 200vh;
   top: 0px;
   left: 0px;
   z-index: -1;
@@ -121,4 +121,25 @@ nav button {
   color: #fffcfc;
   font-size: 16px;
   font-style: helvetica;
+}
+.reserve {
+  height: 100vh;
+  position: relative;
+}
+.reserve-content {
+  padding-left: 50px;
+  padding-top: 75px;
+}
+.reserve h1 {
+  color: #fffcfc;
+  font-size: 50px;
+}
+.reserve p {
+  color: #fffcfc;
+  font-size: 16px;
+  font-style: helvetica;
+}
+.reserve .button {
+  margin-left: 50px;
+  margin-top: 15px;
 }
