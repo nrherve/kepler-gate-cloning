@@ -1,0 +1,33 @@
+body {
+  background-color: #000000;
+}
+nav {
+  display: flex;
+  gap: 30px;
+  padding: 20px;
+}
+nav img {
+  width: 50px;
+}
+nav li {
+  list-style: none;
+}
+nav a {
+  text-decoration: none;
+  color: #fffcfc;
+}
+nav .logoName {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+nav button {
+  background-color: transparent;
+  color: #fffcfc;
+  border: 1px solid #fffcfc;
+  padding: 5px 10px;
+  cursor: pointer;
+  padding: 5px 20px;
+  font-style: Helvetica, sans-serif;
+  font-size: 10px;
+}
