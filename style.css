@@ -6,8 +6,9 @@ nav {
   gap: 30px;
   padding: 20px;
 }
-nav img {
-  width: 50px;
+nav .logo {
+  width: 120px;
+  padding-top: 0px;
 }
 nav li {
   list-style: none;
@@ -30,6 +31,9 @@ nav button {
   padding: 5px 20px;
   font-family: Helvetica, sans-serif;
   font-size: 10px;
+}
+nav button span {
+  margin-left: 10px;
 }
 .hero {
   height: 100vh;
@@ -64,7 +68,7 @@ nav button {
 }
 .hero .description {
   font-family: helvetica;
-  font-size: 50px;
+  font-size: 60px;
   margin-top: 0px;
 }
 .about {
