@@ -28,7 +28,7 @@ nav button {
   padding: 5px 10px;
   cursor: pointer;
   padding: 5px 20px;
-  font-style: Helvetica, sans-serif;
+  font-family: Helvetica, sans-serif;
   font-size: 10px;
 }
 .hero {
@@ -58,14 +58,13 @@ nav button {
   margin-left: 20px;
 }
 .hero .date {
-  font-style: helvetica;
+  font-family: helvetica;
   font-size: 20px;
   margin-bottom: 0px;
 }
 .hero .description {
-  font-size: 40px;
-  font-weight: 700;
-  letter-spacing: -2px;
+  font-family: helvetica;
+  font-size: 50px;
   margin-top: 0px;
 }
 .about {
@@ -93,7 +92,7 @@ nav button {
 .about p {
   color: #fffcfc;
   font-size: 19px;
-  font-style: helvetica;
+  font-family: helvetica;
   margin-bottom: 45px;
 }
 .learn {
@@ -120,7 +119,7 @@ nav button {
 .learn p {
   color: #fffcfc;
   font-size: 16px;
-  font-style: helvetica;
+  font-family: helvetica;
 }
 .reserve {
   height: 100vh;
@@ -137,7 +136,7 @@ nav button {
 .reserve p {
   color: #fffcfc;
   font-size: 16px;
-  font-style: helvetica;
+  font-family: helvetica;
 }
 .reserve .button {
   margin-left: 50px;
@@ -167,7 +166,7 @@ nav button {
 .join p {
   color: #fffcfc;
   font-size: 16px;
-  font-style: helvetica;
+  font-family: helvetica;
 }
 .order {
   height: 100vh;
@@ -193,7 +192,7 @@ nav button {
 .order p {
   color: #fffcfc;
   font-size: 16px;
-  font-style: helvetica;
+  font-family: helvetica;
 }
 .order .button {
   margin-left: 50px;
